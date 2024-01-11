@@ -7,16 +7,6 @@
 			"files": [
 				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/MS_Source_1.uasset",
-				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/A.uasset",
-				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/B.uasset",
-				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/C.uasset",
-				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/D.uasset",
-				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/E.uasset",
-				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/F.uasset",
-				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/G.uasset",
-				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/H.uasset",
-				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/I.uasset",
-				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/J.uasset",
 				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Audio/Footsteps/J.uasset",
 				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Audio/Footsteps/I.uasset",
 				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Audio/Footsteps/H.uasset",
@@ -26,7 +16,19 @@
 				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Audio/Footsteps/D.uasset",
 				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Audio/Footsteps/C.uasset",
 				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Audio/Footsteps/B.uasset",
-				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Audio/Footsteps/A.uasset"
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Audio/Footsteps/A.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/MetaSounds/MS_Source_1.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/MetaSounds/MS_Subtractive_Synth_1.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/A.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/B.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/C.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/D.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/E.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/F.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/G.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/H.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/I.uasset",
+				"C:/Users/h011646k/OneDrive - Staffordshire University/Repos/AudioProgrammingLab/Lab1/Content/Footsteps/J.uasset"
 			]
 		}
 	]
